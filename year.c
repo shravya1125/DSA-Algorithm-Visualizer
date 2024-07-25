@@ -2,7 +2,7 @@
 
 float chances(int n){
 int back;
-switch(ch){
+switch(n){
 case 0:
   back=10;
   break;
