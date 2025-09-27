@@ -28,7 +28,8 @@ This project is an **interactive web application** that visually demonstrates co
 
 ## Live Demo
 
-https://github.com/user-attachments/assets/e667c27f-32c4-4c2c-aff6-2e6dbb541c48
+
+https://github.com/user-attachments/assets/c3066e2d-f55f-42cd-a3ea-4be5364afd9e
 
 
 
